@@ -1,0 +1,1 @@
+# mic_respeaker_seeed-voicecard_hintak
